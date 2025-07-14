@@ -76,6 +76,17 @@ Este proyecto representa mi evolución hacia el análisis de datos con enfoque c
 
 ---
 
+### 📬 Cómo colaborar
+
+¿Te interesa mejorar este proyecto?
+
+- Haz un **fork** y trabaja en una rama nueva.
+- Propone mejoras con un **Pull Request**.
+- También puedes abrir un *issue* con sugerencias o correcciones.
+
+¡Toda contribución educativa es bienvenida!
+
+
 ## 📄 Licencia
 
 Proyecto con fines educativos. Los datos son completamente sintéticos. Créditos a **dCruzCoding** por la generación del dataset.
