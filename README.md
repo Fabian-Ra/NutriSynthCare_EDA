@@ -1,79 +1,80 @@
 # 🧪 NutriSynthCare – Análisis de Datos Clínicos Sintéticos
 
-**NutriSynthCare** es un proyecto de análisis exploratorio y predictivo de datos clínicos sintéticos, desarrollado en Google Colab como parte de mi portafolio profesional de análisis de datos y programación con enfoque en salud.
+**NutriSynthCare** es un proyecto de análisis exploratorio y predictivo de datos clínicos sintéticos, desarrollado en **Google Colab** como parte de mi portafolio profesional en **análisis de datos y programación con enfoque en salud**.
 
-Este análisis simula un sistema clínico que detecta y clasifica riesgo de diabetes y salud cardiovascular.
+Este análisis simula un sistema clínico capaz de detectar y clasificar el riesgo de diabetes y condiciones cardiovasculares.
 
 ---
 
 ## 📌 Objetivos del proyecto
 
-- Explorar patrones clínicos en pacientes ficticios
-- Clasificar el riesgo de diabetes con modelos supervisados
-- Agrupar pacientes por características clínicas comunes (K-Means)
-- Brindar recomendaciones nutricionales básicas
-- Practicar habilidades en análisis de datos para mi portafolio
+- Explorar patrones clínicos en pacientes ficticios.
+- Clasificar el riesgo de diabetes mediante modelos supervisados.
+- Agrupar pacientes según características clínicas comunes (clustering K-Means).
+- Generar recomendaciones nutricionales simples.
+- Reforzar habilidades prácticas en análisis de datos con propósito profesional.
 
 ---
 
 ## 📁 Dataset utilizado
 
-Datos sintéticos educativos generados por `dCruzCoding`:
-> 📂 [Repositorio original](https://github.com/dCruzCoding/NutriSynthCare)
+📂 **Fuente**: Datos sintéticos generados con fines educativos por *dCruzCoding*.
 
-Se utilizó el archivo combinado:  
-`db_cardiabetes.csv` (15.949 registros, 18 variables)
-
----
-
-## 🔍 Pasos del análisis 🔍
-
-1. **Carga y exploración inicial**
-2. **Limpieza de datos**
-3. **Análisis exploratorio visual (EDA)**
-4. **Clasificación binaria (riesgo de diabetes)**
-5. **Agrupamiento de pacientes (K-Means)**
-6. **Recomendaciones nutricionales simples**
+📄 **Archivo principal**: `db_cardiabetes.csv`  
+📊 **Registros**: 15.949  
+📌 **Variables**: 18 columnas clínicas
 
 ---
 
-## 📈 Herramientas utilizadas
+## 🔍 Fases del análisis
 
-- Python + Pandas + NumPy
-- Matplotlib & Seaborn (visualización)
-- Scikit-learn (modelado)
-- Google Colab (notebook)
-- GitHub (portafolio)
+1. ✅ Carga y exploración inicial
+2. 🧹 Limpieza de datos
+3. 📊 Análisis exploratorio visual (EDA)
+4. 🤖 Clasificación binaria (riesgo de diabetes)
+5. 📌 Segmentación de pacientes (K-Means)
+6. 🥗 Recomendaciones nutricionales básicas
+
+---
+
+## 🧰 Herramientas utilizadas
+
+- 🐍 Python (Pandas, NumPy)
+- 📈 Matplotlib & Seaborn (visualización)
+- 🧠 Scikit-learn (modelado ML)
+- ☁️ Google Colab (entorno)
+- 🔗 GitHub (portafolio)
 
 ---
 
 ## 🎯 Resultados clave
 
-- Modelo de clasificación con **92 % de precisión**
-- 4 clusters clínicamente interpretables
-- Visualizaciones claras y útiles
-- Proyecto apto para presentación profesional
+- ✅ Modelo de clasificación con **92 % de precisión**
+- 📍 Identificación de **4 clusters clínicamente interpretables**
+- 📊 Visualizaciones limpias y útiles
+- 🧪 Proyecto aplicable a presentaciones clínicas y portafolios profesionales
 
 ---
 
 ## 🚀 Cómo ejecutarlo
 
-1. Descargá el archivo `NutriSynthCare_01_EDA_Modelo.ipynb`
-2. Abrilo en [Google Colab](https://colab.research.google.com/)
-3. Asegurate de tener los archivos `.csv` en tu Google Drive o adaptá la ruta
+1. Descargá el archivo: `NutriSynthCare_01_EDA_Modelo.ipynb`
+2. Abrilo en Google Colab
+3. Asegurate de tener el archivo CSV en tu Google Drive o actualizá la ruta
 4. Ejecutá las celdas paso a paso
 
 ---
 
 ## 🙋 Sobre mí
 
-Soy **Fabian**, estudiante de Análisis de Datos y Programación Web con amplia experiencia previa en el área de salud. Este proyecto representa mi crecimiento como analista con enfoque clínico.
+Soy **Fabian**, estudiante de Análisis de Datos y Programación Web con experiencia previa como auxiliar de enfermería.  
+Este proyecto representa mi crecimiento profesional como analista con enfoque clínico.
 
-👉 [Visita mi perfil en GitHub](https://github.com/Fabian-Ra)
+🔗 [Visita mi perfil en GitHub](https://github.com/Fabian-Ra)
 
 ---
 
 ## 📄 Licencia
 
-Proyecto con fines educativos. Los datos son completamente sintéticos. Créditos a [dCruzCoding](https://github.com/dCruzCoding).
+Proyecto con fines educativos. Los datos son completamente sintéticos. Créditos a **dCruzCoding** por la generación del dataset.
 
