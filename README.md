@@ -64,11 +64,13 @@ Este análisis simula un sistema clínico capaz de detectar y clasificar el ries
 4. Ejecutá las celdas paso a paso
 
 ---
+### 🙋 Sobre mí
 
-## 🙋 Sobre mí
+Soy **Fabian**, estudiante de Análisis de Datos y Programación Web, con sólida experiencia previa en el sector salud como **enfermero**.  
+He trabajado en areas como **UCI**, con **pacientes pediátricos y neonatales**, y también como **enfermero administrativo en el área renal**, lo que me ha brindado una visión integral del cuidado clínico y la gestión hospitalaria.
 
-Soy **Fabian**, estudiante de Análisis de Datos y Programación Web con experiencia previa como auxiliar de enfermería.  
-Este proyecto representa mi crecimiento profesional como analista con enfoque clínico.
+Este proyecto representa mi evolución hacia el análisis de datos con enfoque clínico, combinando mi experiencia asistencial con herramientas modernas de programación y ciencia de datos.
+
 
 🔗 [Visita mi perfil en GitHub](https://github.com/Fabian-Ra)
 
